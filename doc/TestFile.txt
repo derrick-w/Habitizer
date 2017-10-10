@@ -1,2 +1,3 @@
 Hey Hey ! It's the first commit! -- Sadman
 hello it's me your asian -- Simon
+Hello, I am the PR manager -- Derrick
